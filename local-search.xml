@@ -4,25 +4,6 @@
   
   
   <entry>
-    <title>Hexo博客搭建 -基础</title>
-    <link href="/:/%E6%96%87%E7%AB%A0%E5%90%8D/"/>
-    <url>/:/%E6%96%87%E7%AB%A0%E5%90%8D/</url>
-    
-    <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>Hexo是一款基于Node.js的静态、简洁且高效的博客框架，支持 <strong>Markdown</strong> 、一键部署、插件和可扩展性（引自<a href="https://hexo.io/zh-cn/">官网</a>）以下使用系统均为windows</p><h1 id="起手准备"><a href="#起手准备" class="headerlink" title="起手准备"></a>起手准备</h1><ul><li>安装Git</li><li>安装Node.js</li><li>GitHub创建个人仓库</li><li>生成SSH添加到Github</li></ul><h1 id="搭建步骤"><a href="#搭建步骤" class="headerlink" title="搭建步骤"></a>搭建步骤</h1><h2 id="1-安装Git"><a href="#1-安装Git" class="headerlink" title="1. 安装Git"></a>1. 安装Git</h2><p>Git是博客的控制工具 用来修改和编辑博客</p><p>到git官网上下载, 下载后会有一个 Git Bash的命令行工具, 以后就是用这个工具来编辑博客.</p><p>安装过程只需要默认点下一步就好.</p><h2 id="2-安装node-Js"><a href="#2-安装node-Js" class="headerlink" title="2. 安装node.Js"></a>2. 安装node.Js</h2><p>Hexo 是基于nodeJs编写的, 所以需要安装nodeJs和里面的npm工具.</p><p>同样是到官网下载安装程序, 直接按下一步安装即可.<br>安装完成后打开命令行工具输入以下命令</p><figure class="highlight cmd"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs cmd">node -v<br>npm -v<br></code></pre></td></tr></table></figure><p>用来检测是否安装成功</p><p>安装成功的话 这里应该会输出版本号</p>]]></content>
-    
-    
-    
-    <tags>
-      
-      <tag>博客搭建</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
     <title>Hello World</title>
     <link href="/:/hello-world/"/>
     <url>/:/hello-world/</url>
